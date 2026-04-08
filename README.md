@@ -35,9 +35,7 @@ front-end student & design-driven mind
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizhf&show_icons=true&theme=transparent&title_color=f5e6a8&text_color=ffffff&icon_color=f5e6a8&hide_border=true" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizhf&layout=compact&theme=transparent&title_color=f5e6a8&text_color=ffffff&hide_border=true" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizhf&theme=github_dark" />
 
 </div>
 
