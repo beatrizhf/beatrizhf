@@ -36,6 +36,7 @@ front-end student & design-driven mind
   <img src="https://img.shields.io/badge/Figma-f5e6a8?style=for-the-badge&logo=figma&logoColor=transparent" />
   <img src="https://img.shields.io/badge/Photoshop-f5e6a8?style=for-the-badge&logo=adobephotoshop&logoColor=transparent" />
   <img src="https://img.shields.io/badge/Illustrator-f5e6a8?style=for-the-badge&logo=adobeillustrator&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/VS%20Code-f5e6a8?style=for-the-badge&logo=visualstudiocode&logoColor=transparent" />
 
 </div>
 
