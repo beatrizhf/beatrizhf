@@ -12,58 +12,39 @@ front-end student & design-driven mind
 
 ## 🌙 About me
 
-- 🎨 Background in photography & visual design  
-- 💻 Currently studying front-end development  
-- 🌿 Passion for minimal, calm and intentional interfaces  
-- 📍 Brazil  
+-  Graphic design graduation  
+-  Currently studying front-end development
+-  Entra21
 
 <br>
 
 ---
 
-## 🧠 Currently learning
+
+
+## ✨ GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+ 
+<img src="https://streak-stats.demolab.com?user=beatrizhf&theme=default&hide_border=true&background=transparent&ring=f5e6a8&fire=f5e6a8&currStreakLabel=f5e6a8&currStreakNum=f5e6a8&sideNums=f5e6a8&sideLabels=ffffff&dates=777777&stroke=f5e6a8" />
 </div>
 
 <br>
 
 ---
 
-## ⚡ GitHub Stats
+## 🌙 Tools
 
 <div align="center">
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizhf&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Figma-f5e6a8?style=for-the-badge&logo=figma&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Photoshop-f5e6a8?style=for-the-badge&logo=adobephotoshop&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/Illustrator-f5e6a8?style=for-the-badge&logo=adobeillustrator&logoColor=transparent" />
 
 </div>
 
 <br>
 
----
-
-## 🛠️ Tools
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=f5e6a8" />
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=f5e6a8" />
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=f5e6a8" />
-
-</div>
-
-<br>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-  <a href="SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=f5e6a8" />
-  </a>
 
 </div>
 
