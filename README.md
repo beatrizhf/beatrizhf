@@ -1,14 +1,13 @@
 
 <div align="center">
 
-# ✨ Beatriz Ferrari  
+# ✨ Beatriz Haiana
 front-end student & design-driven mind
 
 </div>
-
+<br>
 <br>
 
----
 
 ## 🌙 About me
 
@@ -17,9 +16,6 @@ front-end student & design-driven mind
 -  Entra21
 
 <br>
-
----
-
 
 
 ## ✨ GitHub Stats
@@ -31,9 +27,9 @@ front-end student & design-driven mind
 
 <br>
 
----
 
 ## 🌙 Tools
+<br>
 
 <div align="center">
 
@@ -43,10 +39,6 @@ front-end student & design-driven mind
 
 </div>
 
-<br>
 
 
-</div>
-
-<br>
 
